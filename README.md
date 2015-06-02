@@ -3,9 +3,9 @@
 ####By Carmel Schvartzman
 
 This Bootstrap App code is the companion for the following Tutorial:
- http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-6-responsive-modal-windows.html
+ http://themvcclub.blogspot.com/2015/06/bootstrap-tutorial-responsive-youtube-modal-window.html
 
-<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-6-responsive-modal-windows.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/06/bootstrap-tutorial-responsive-youtube-modal-window.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
 
 
 
