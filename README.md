@@ -1,4 +1,4 @@
-# Bootstrap_YouTubeModalWindow
+# Bootstrap YouTube Modal Window
 ###Code for displaying a Modal Window showing a YouTube Video
 ####By Carmel Schvartzman
 
