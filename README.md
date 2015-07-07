@@ -29,4 +29,7 @@ This Bootstrap App code is the companion for the following Tutorial:
 
 ###<a href="http://themvcclub.blogspot.com/"   target="_blank"  >The MVC Club</a>
 
+<div style="direction: rtl;">
+פיתוח: כרמל שוורצמן</div>
+
 
